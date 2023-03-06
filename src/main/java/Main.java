@@ -4,7 +4,7 @@ public class Main {
            Student basicStudent = new Student();
 
            basicStudent.setFirstCharacteristic("poor");
-           basicStudent.setSecondCharacteristic("Study Course");
+           basicStudent.setSecondCharacteristic("Study Courses");
            basicStudent.setThirdCharacteristic("age");
 
            System.out.println(basicStudent.getFirstCharacteristic());
